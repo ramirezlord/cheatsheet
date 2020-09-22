@@ -1,0 +1,75 @@
+h1 {
+    font-family: Montserrat;
+    color: white;
+    text-align: center;
+    text-transform: uppercase; 
+}
+
+h3{
+    text-align: center;
+    font-size: 14px;
+}
+
+
+body{
+    background-image: url(https://i.ibb.co/mcr0NQy/cityskyline.jpg);
+    background-color: black;
+    font-family: montserrat;
+    color: white;
+}
+
+#table1 {
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+    
+}
+
+#table2 {
+    width: 55%;
+    margin-right: auto;
+    margin-left: auto;
+    
+}
+
+#table2 td{
+    padding-left: 5px;
+    padding-bottom: 8px;
+    padding-top: 8px;
+    
+}
+
+#table2 th{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+tr:hover {
+    background-color: rgb(136, 136, 136);
+}
+
+tr{
+    background-color: rgb(10, 10, 10);
+}
+
+table,th,td{
+    border: 1px solid white;
+    border-collapse: collapse;    
+}
+
+
+th{
+    color: black;
+    background:rgb(226, 226, 226);
+    height: 30px;
+}
+
+td{
+    padding-left: 15px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    
+}
+
+
+ 
